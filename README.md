@@ -9,7 +9,7 @@ I am a passionate full-stack developer who comes from a coding boot-camp backgro
 * 🌍  I'm based in New Jersey
 * 🖥️  See my portfolio at [MyPortfolio](https://www.angeltheesoto.com/)
 * ✉️  You can contact me at [Angelsoto2373@gmail.com](mailto:Angelsoto2373@gmail.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning NextJS
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
