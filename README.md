@@ -6,7 +6,7 @@ Full-Stack Developer
 
 I am a passionate full-stack developer who comes from a coding boot-camp background. I have experience at enhancing user interfaces, writing efficient code, and creating dynamic products.
 
-* 🌍  I'm based in New Jersey
+* 🌍  I'm based in Florida
 * 🖥️  See my portfolio at [MyPortfolio](https://www.angeltheesoto.com/)
 * ✉️  You can contact me at [Angelsoto2373@gmail.com](mailto:Angelsoto2373@gmail.com)
 * 🧠  I'm learning NextJS
